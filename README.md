@@ -29,7 +29,7 @@
 ---
 
 ### :woman_technologist: About Me :
-- :school: I am a first year Btech student at RGIPT.
+- :school: I am a 2nd year Btech student at RGIPT.
 - :star: I am a quick learner and i like to explore new things and skills.
 - :computer: In my free time, i solve problems on codechef platform.
 - :zap: C, C++, PYTHON and much more.
