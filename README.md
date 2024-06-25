@@ -36,7 +36,11 @@
 
 ---
 
-### :fire: My Stats :
-[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushii06)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushii06&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+### :fire: My Stats :
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ayushii06)](https://git.io/streak-stats) 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushii06&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+
+![VisitorCount](https://countrush-prod.azurewebsites.net/l/badge/?repository=ayushii06.ayushii06)
