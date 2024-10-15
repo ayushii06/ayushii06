@@ -52,7 +52,7 @@
 <p align="left">
 <a href="https://twitter.com/ayushi_pal06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushi_pal06" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ayushi-pal-99965b249" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushi-pal-99965b249" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/ayushi-pal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayushi-pal" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/22011526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="ayushi-pal" height="30" width="40" /></a>
 <a href="https://medium.com/@ayushipal06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@ayushipal06" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/ayushii06" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushii06" height="30" width="40" /></a>
 </p>
@@ -74,4 +74,4 @@
 
 I'm always open to new ideas and collaborations. I love exploring new technologies and work with great mindsets. Feel free to reach out to me at ayushipal06@gmail.com
 
-*Go and stalk my projects :) <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushii06&label=Profile%20views&color=0e75b6&style=flat" alt="ayushii06" /> </p>
+*Go and stalk my projects :)* <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushii06&label=Profile%20views&color=0e75b6&style=flat" alt="ayushii06" /> </p>
